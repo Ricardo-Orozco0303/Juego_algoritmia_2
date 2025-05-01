@@ -12,7 +12,7 @@ public class JuegoDeA_Y_p_II {
 
     public static void main(String[] args) {
         Juego Inicio_1 = new Juego();
-        Inicio_1.setSize(1080, 650); // Tamaño de la ventana
+        Inicio_1.setSize(1420, 820); // Tamaño de la ventana
         Inicio_1.setLocationRelativeTo(null); // Centrar en pantalla
         Inicio_1.setVisible(true);
 
